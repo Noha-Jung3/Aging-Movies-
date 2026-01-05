@@ -11,6 +11,6 @@ Determine what factors allow movies to become classics and predict if an upcomin
 
 **The Hypothesis:**
 
-If a movie has a moderate runtime (not too long not too short), follows a trend at the time, has high ratings and review counts then it will be a "classic".
+If a movie has a moderate runtime (not too long not too short), follows a trend at the time in terms of genre popularity, has high ratings and review counts then it will be a "classic".
 
 
