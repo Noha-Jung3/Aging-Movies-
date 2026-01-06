@@ -1,5 +1,5 @@
 # Aging-Movies
-This is a project to determine why some movies age well and become classics while others become forgotten by time despite doing well and being popular at the time of release.
+This is a project to create a predictive model which determines if a movie will be a "classic" or "forgotten", by determining why some movies age well and become classics while others become forgotten by time despite doing well and being popular at the time of release. 
 
 **The Purpose:**
 
