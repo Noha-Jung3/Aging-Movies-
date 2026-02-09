@@ -1,16 +1,9 @@
 # Aging-Movies
-This is a project to create a predictive model which determines if a movie will be a "classic" or "forgotten", by determining why some movies age well and become classics while others become forgotten by time despite doing well and being popular at the time of release. 
 
-**The Purpose:**
+**Motivation**
+Thousands of movies are released every year, but only some become cuturally significant (classics). Some on the other hand despite having good ratings and being well received at the time of release, become forgotten. IMDB provides a good way to measure both quality and public attention (ratings and number of votes. Using the dataset we attempt to answer the question: *"What structure and characteristics differentiate classic films from forgotten ones?"*
 
-This is an interesting way to find out why some movies age well and become classics and why many don't using data.
 
-**The Aim:**
 
-Determine what factors allow movies to become classics and predict if an upcoming movie will become a classic or forgotten.
-
-**The Hypothesis:**
-
-If a movie has a moderate runtime (not too long not too short), follows a trend at the time in terms of genre popularity, has high ratings and review counts then it will be a "classic".
 
 
